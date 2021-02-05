@@ -1,0 +1,35 @@
+body{
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #2d3436;
+}
+.BMI{
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    background-color: #2d3436;
+    border: none;
+    border: 1px solid #ff7675;
+    border-radius: 10px;
+    color: white;
+    transition: all 0.5s;
+}
+.btn:hover{
+    background-color:#ff7675;
+    border: 1px solid #2d3436;
+}
+.d{
+    border-radius: 10px;
+    color: white;
+    background-color:#2d3436;
+    border: 1px solid #ff7675;
+    width: 170px;
+    height: 25px;
+}
